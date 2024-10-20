@@ -1,0 +1,173 @@
+{
+  "hero-section": {
+    "main-title": "NextIQ",
+    "short-title-description": "for $190, get a",
+    "last-title": "website",
+    "description": "We are a small team founded by an international and experienced software engineer from Madagascar.",
+    "quotes": "\"NextIQ: Intelligent Web Solutions!\" - chatgpt"
+  },
+  "price-section": {
+    "main-title": "Simple, Transparent Pricing",
+    "title-description": "Choose the plan that's right for you.\nYou can have a website for year just for 190$.",
+    "note": "Local client from Madagascar are proposed to a lower and different price range.\nA the end of your contract (1 year), we will provide to you a new cost estimation for the coming year.\nYou have the possibility to not move forward.",
+    "price-list": [
+      {
+        "title": "Basics",
+        "price": "$432",
+        "unity": "year",
+        "button": "Get started",
+        "features": [
+          {
+            "value": "Landing page"
+          },
+          {
+            "value": "Contact page linked to your Email"
+          },
+          {
+            "value": "1 simple static page offered"
+          },
+          {
+            "value": "Terms of services & privacy page offered"
+          },
+          {
+            "value": "We host everything"
+          },
+          {
+            "value": "Maintenance"
+          },
+          {
+            "value": "Domain name (.com, .mg)"
+          },
+          {
+            "value": "GitHub repository access as viewer if needed"
+          },
+          {
+            "value": "CMS access if needed"
+          }
+        ]
+      },
+      {
+        "title": "In-demand",
+        "price": "> $599",
+        "unity": "year",
+        "button": "Get started",
+        "features": [
+          {
+            "value": "Everything in basics"
+          },
+          {
+            "value": "Dynamic website"
+          },
+          {
+            "value": "Unlimited (paid) pages"
+          },
+          {
+            "value": "Database enabled"
+          },
+          {
+            "value": "Media storage and CDN enabled"
+          },
+          {
+            "value": "Leverage our speed by paying more"
+          },
+          {
+            "value": "Let us take our time and pay less"
+          }
+        ]
+      },
+      {
+        "title": "Budget",
+        "price": "> $190",
+        "unity": "year",
+        "button": "Get started",
+        "features": [
+          {
+            "value": "Landing page"
+          },
+          {
+            "value": "We host everything"
+          },
+          {
+            "value": "Maintenance"
+          },
+          {
+            "value": "Domain name (.com, .mg)"
+          },
+          {
+            "value": "The rest depends on your budget"
+          }
+        ]
+      }
+    ]
+  },
+  "signin-form": {
+    "title": "Login to your account",
+    "description": "Enter your email and password to access your account.",
+    "button": "Sign in",
+    "no-account-text": "Don't have an account?",
+    "no-account-link-text": "Sign up",
+    "username-input": {
+      "label": "Email or Username",
+      "placeholder": "m@example.com",
+      "error-message": "Invalid Email or Username"
+    },
+    "password-input": {
+      "label": "Password",
+      "placeholder": "••••••••",
+      "error-message": "Invalid password"
+    }
+  },
+  "signup-form": {
+    "title": "Sign Up",
+    "description": "Enter your information to create an account",
+    "username-input": {
+      "label": "Username",
+      "placeholder": "Enter your username",
+      "error-message": "Username is required"
+    },
+    "email-input": {
+      "label": "Email",
+      "placeholder": "Enter your email address",
+      "error-message": "Email is required"
+    },
+    "password-input": {
+      "label": "Password",
+      "placeholder": "••••••••",
+      "error-message": "Password is required"
+    },
+    "button": "Create account",
+    "already-have-account-text": "Already have an account?",
+    "already-have-account-link-text": "Sign in"
+  },
+  "contact-page": {
+    "title": "Contact us now.",
+    "description": "Have a question, comment, or concern? We're here to listen and help. Get in touch with us today and let's start a conversation.",
+    "button": "Get in touch",
+    "social-media-text": "Follow us on social media"
+  },
+  "contact-form": {
+    "title": "Contact us",
+    "description": "Ask us everything and we would love to hear from you",
+    "button": "get in touch",
+    "input-full-name": {
+      "label": "Full name",
+      "placeholder": "Enter your full name",
+      "error-message": "Full name is required"
+    },
+    "input-email": {
+      "label": "Email",
+      "placeholder": "Enter your email address",
+      "error-message": "Invalid format email"
+    },
+    "input-phone": {
+      "label": "Phone number",
+      "placeholder": "+123 456 789",
+      "error-message": "Phone number is required"
+    },
+    "input-message": {
+      "label": "Message",
+      "placeholder": "Message",
+      "error-message": "Message is required"
+    }
+  }
+}
